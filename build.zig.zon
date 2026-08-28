@@ -1,0 +1,8 @@
+.{
+    .name = .m4,
+    .version = "1.4.0",
+    .fingerprint = 0xb03ef3a033fa1dbf,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{},
+    .paths = .{ "build.zig", "build.zig.zon", "generated", "eval.c", "expr.c", "gnum4.c", "look.c", "main.c", "misc.c", "ohash.c", "trace.c", "strtonum.c", "reallocarray.c", "strlcpy.c", "extern.h", "mdef.h", "ohash.h", "pathnames.h", "stdd.h", "parser.y", "tokenizer.l" },
+}
